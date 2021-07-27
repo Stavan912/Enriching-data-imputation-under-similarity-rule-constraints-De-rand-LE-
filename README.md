@@ -1,2 +1,0 @@
-# Enriching-data-imputation-under-similarity-rule-constraints-De-rand-LE-
-The algorithm proposed here does imputation considering the similarity rule constraints which takes the differential dependencies into account. The differential dependencies empower the algorithm to perform well even if the data points have small variations. The issue of maximizing the missing data imputation is also evaluated by this algorithm.
