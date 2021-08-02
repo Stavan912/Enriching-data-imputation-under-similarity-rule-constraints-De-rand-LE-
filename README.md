@@ -1,11 +1,11 @@
 # Enriching-data-imputation-under-similarity-rule-constraints-De-rand-LE-
 The algorithm proposed here does imputation considering the similarity rule constraints which takes the differential dependencies into account. The differential dependencies empower the algorithm to perform well even if the data points have small variations. The issue of maximizing the missing data imputation is also evaluated by this algorithm.
-1. download anaconda https://www.anaconda.com/distribution/
+1. Download anaconda https://www.anaconda.com/distribution/
 
 run the following commands in anaconda-prompt:
 
 #create an virtual environment where you will install the necessary libraries and python
-2. conda create --name rafi python=3.6
+2. conda create --name Stavan python=3.6
 
 #activate the environment
 3. activate rafi
